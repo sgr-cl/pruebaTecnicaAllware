@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/pruebatecnica/services/v1/ListaService/DeleteN.java=UTF-8
+encoding//src/pruebatecnica/services/v1/ListaService/DeleteNResponse.java=UTF-8
+encoding//src/pruebatecnica/services/v1/ListaService/GetObj.java=UTF-8
+encoding//src/pruebatecnica/services/v1/ListaService/GetObjResponse.java=UTF-8
+encoding//src/pruebatecnica/services/v1/ListaService/GetSizeList.java=UTF-8
+encoding//src/pruebatecnica/services/v1/ListaService/GetSizeListResponse.java=UTF-8
+encoding//src/pruebatecnica/services/v1/ListaService/InsertarN.java=UTF-8
+encoding//src/pruebatecnica/services/v1/ListaService/InsertarNResponse.java=UTF-8
+encoding//src/pruebatecnica/services/v1/ListaService/InsertarObj.java=UTF-8
+encoding//src/pruebatecnica/services/v1/ListaService/InsertarObjResponse.java=UTF-8
+encoding//src/pruebatecnica/services/v1/ListaService/ListaService.java=UTF-8
+encoding//src/pruebatecnica/services/v1/ListaService/ListaServiceImpl.java=UTF-8
+encoding//src/pruebatecnica/services/v1/ListaService/ListaServiceImplPortBindingStub.java=UTF-8
+encoding//src/pruebatecnica/services/v1/ListaService/ListaServiceLocator.java=UTF-8
+encoding/<project>=Cp1252
